@@ -52,7 +52,7 @@ By following these steps, you can seamlessly navigate SocialLinkr and enjoy the 
 Follow these steps to get SocialLinkr up and running:
 
 1. Clone the repository and navigate to the project directory:
-   $ git clone https://github.com/vissshal/SocialLinkr.git
+   $ git clone https://github.com/p-chaudhary/SocialLinkr.git
 
 2. Navigate to the project directory
 bash
